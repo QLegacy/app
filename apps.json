@@ -1,1 +1,31 @@
+{
+  "games": [
+    {
+      "name": "Game 1",
+      "desc": "Описание игры 1",
+      "ver": "1.0",
+      "dev": "Dev Team"
+    },
+    {
+      "name": "Game 2",
+      "desc": "Описание игры 2",
+      "ver": "1.2",
+      "dev": "Another Dev Team"
+    }
+  ],
+  "apps": [
+    {
+      "name": "App 1",
+      "desc": "Описание приложения 1",
+      "ver": "2.0",
+      "dev": "Dev Team"
+    },
+    {
+      "name": "App 2",
+      "desc": "Описание приложения 2",
+      "ver": "3.1",
+      "dev": "Another Dev Team"
+    }
+  ]
+}
 
